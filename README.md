@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asiftunga
-- 👀 I’m interested in Web, Game development & Graphics programming and bit of everything...
+- 👀 I’m interested in Web, Game development & Computer graphics and bit of everything...
 - 🌱 I’m currently learning Js,React,Express
 - 💞️ I love creating new things and turning my ideas into reality with coding. 
 - 📫 You can reach me through my website : http://asiftunga.me
