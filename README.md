@@ -1,7 +1,8 @@
 <!-- ![MasterHead](https://d2r55xnwy6nx47.cloudfront.net/uploads/2019/07/Boolean-Sensitivity_2880x1620_Lede.gif) -->
 <img align="center" alt="Coding" width="1000" src="https://d2r55xnwy6nx47.cloudfront.net/uploads/2019/07/Boolean-Sensitivity_2880x1620_Lede.gif">
-<h1 align="center">Hi 👋, I'm Tunga</h1>
 <br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&duration=1500&pause=2000&color=FFFFFF&center=true&width=2000&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Tunga;I+love+CS+and+being+a+part+of+it.+%F0%9F%92%96+" alt="Typing SVG" /></a>
+<hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asiftunga&label=Profile%20views&color=0e75b6&style=flat" alt="asiftunga" /> </p>
 
 
