@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently using and improving myself on **.Net Core**
 
-- 💬 Ask me about **C#, .Net Core, Golang**
+- 💬 Ask me about **C#, .Net Core, Golang, Vue.Js**
 
 - 📫 How to reach me : **asiftunga23@gmail.com**
 
