@@ -10,13 +10,13 @@
 <img align="right" alt="Coding" width="400" src="https://s2.gifyu.com/images/ezgif-1-880e04fa50.gif">
 <br>
 
-- 👨🏻‍💻 I am interested in **Web Development 💖 - (and Game dev. & computer graph as a hobby)**
+- 👨🏻‍💻 I am interested in **Full-Stack Web Development 💖 - (and Game dev. & computer graph as a hobby)**
 
 - 🔭 I enjoy **to solving Algorithmic Problems**
 
 - 🌱 I’m currently using and improving myself on **.Net Core**
 
-- 💬 Ask me about **C#, .Net Core, Golang, Fiber, PostgreSQL**
+- 💬 Ask me about **C#, .Net Core, Golang**
 
 - 📫 How to reach me : **asiftunga23@gmail.com**
 
