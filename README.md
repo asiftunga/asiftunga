@@ -14,7 +14,7 @@
 
 - 🔭 I enjoy **to solving Algorithmic Problems**
 
-- 🌱 I’m currently using and improving myself on **.Net Core**
+- 🌱 I’m currently using and improving myself on **.Net Core** and **Vue.js**
 
 - 💬 Ask me about **C#, .Net Core, Golang, Vue.Js**
 
@@ -35,24 +35,21 @@
 <h3 align="left">Frameworks</h3>
 <p align="left">  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt="dotnet" width="60" height="60"/> </a> <a href="https://gofiber.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg" alt="fiber" width="110" height="80"/> </a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="dotnet" width="50" height="50"/> </a></a></p>
 
-<!-- <h3 align="left">Databases</h3>
-<p><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/> </a><a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="60" height="60"/> </a><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="60"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a></p> -->
-
 <h3 align="left">Databases</h3>
 <p>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/>
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+ <!-- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="60" height="60"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp; -->
 </p> 
 
 <h3 align="left">Others & Tools</h3>
-<p><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>&nbsp;&nbsp;<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/>&nbsp;&nbsp;<a href="https://rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/rabbitmq8610.jpg" alt="rabbitmq" width="50" height="50"/></a>&nbsp;&nbsp;<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://tecadmin.net/tutorial/wp-content/uploads/2017/09/bash-logo.jpg" alt="bash" width="70" height="55"/> </a>&nbsp;<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a>&nbsp;<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>&nbsp;<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a>&nbsp;<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/> </a></p>
+<p><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>&nbsp;&nbsp;<!--- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/>&nbsp;&nbsp; --> <a href="https://rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/rabbitmq8610.jpg" alt="rabbitmq" width="50" height="50"/></a>&nbsp;&nbsp;<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://tecadmin.net/tutorial/wp-content/uploads/2017/09/bash-logo.jpg" alt="bash" width="70" height="55"/> </a>&nbsp;<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a>&nbsp;<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>&nbsp;<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a>&nbsp;<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/> </a></p>
  
 <h3 align="left">Game Development (My Hobby 💖)</h3>
 <p><a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/unreal-engine.jpg" alt="unreal" width="60" height="50"/> </a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="70" height="60"/> </a> </p>
