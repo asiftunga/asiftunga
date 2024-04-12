@@ -7,7 +7,7 @@
 
 
 <h3 align="center">I am a passionate student who possesses a strong fascination to the field of Computer Science with a desire to constantly develop new skills.</h3>
-<img align="right" alt="Coding" width="400" src="https://s2.gifyu.com/images/ezgif-1-880e04fa50.gif">
+<img align="right" alt="Coding" width="400" src="[https://s2.gifyu.com/images/ezgif-1-880e04fa50.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fstickers%2FMegaGeex-transparent-science-megageex-lnCoxXv7RtPIImWBud&psig=AOvVaw2Mvr-2wGFSk7fx5TZM_EY6&ust=1713039852925000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODE6_DAvYUDFQAAAAAdAAAAABAE)">
 <br>
 
 - 👨🏻‍💻 I am interested in **Full-Stack Web Development 💖 - (and Game dev. & computer graph as a hobby)**
