@@ -7,8 +7,7 @@
 
 
 <h3 align="center">I am a passionate student who possesses a strong fascination to the field of Computer Science with a desire to constantly develop new skills.</h3>
-<!-- <img align="right" alt="Coding" width="400" src=""> -->
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/lnCoxXv7RtPIImWBud" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/MegaGeex-transparent-science-megageex-lnCoxXv7RtPIImWBud">via GIPHY</a></p>
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmVydXVrdmY4NWg5dDk1OGdpOGRzYmY3anY4dHA4azJjZzgzNnI0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lnCoxXv7RtPIImWBud/giphy.gif">
 <br>
 
 - 👨🏻‍💻 I am interested in **Full-Stack Web Development 💖 - (and Game dev. & computer graph as a hobby)**
