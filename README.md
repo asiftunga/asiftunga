@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmVydXVrdmY4NWg5dDk1OGdpOGRzYmY3anY4dHA4azJjZzgzNnI0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lnCoxXv7RtPIImWBud/giphy.gif">
 <br>
 
-- 👨🏻‍💻 I am interested in **Full-Stack Web Development 💖 - (and Game dev. & computer graph as a hobby)**
+- 👨🏻‍💻 I am interested in **Full-Stack Web Development**
 
 - 🔭 I enjoy **to solving Algorithmic Problems**
 
