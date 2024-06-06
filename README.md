@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asiftunga&label=Profile%20views&color=0e75b6&style=flat" alt="asiftunga" /> </p>
 
 
-<h3 align="center">I am a passionate student who possesses a strong fascination to the field of Computer Science with a desire to constantly develop new skills.</h3>
+<h3 align="center">Hi there! I'm a recent Computer Science graduate who loves to code, learn, and build awesome things.</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmVydXVrdmY4NWg5dDk1OGdpOGRzYmY3anY4dHA4azJjZzgzNnI0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lnCoxXv7RtPIImWBud/giphy.gif">
 <br>
 
