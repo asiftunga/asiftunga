@@ -37,16 +37,18 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/>
   </a>&nbsp;&nbsp;&nbsp;
+   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/>
+   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="60" height="60"/>
-  </a>&nbsp;&nbsp;&nbsp; -->
+  </a>&nbsp;&nbsp;&nbsp;
 </p> 
-
 <h3 align="left">Others & Tools</h3>
 <p><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>&nbsp;&nbsp;<!--- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/>&nbsp;&nbsp; --> <a href="https://rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/rabbitmq8610.jpg" alt="rabbitmq" width="50" height="50"/></a>&nbsp;&nbsp;<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://tecadmin.net/tutorial/wp-content/uploads/2017/09/bash-logo.jpg" alt="bash" width="70" height="55"/> </a>&nbsp;<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a>&nbsp;<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>&nbsp;<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a>&nbsp;<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/> </a></p>
  
 <h3 align="left">Game Development (My Hobby 💖)</h3>
-<p><a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.sanity.io/images/fuvbjjlp/production/01c082f3046cc45548249c31406aeffd0a9a738e-296x100.png" alt="unreal" width="60" height="50"/> </a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="70" height="60"/> </a> </p>
+<p><a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://www.citypng.com/public/uploads/preview/unity-white-logo-icon-png-701751694968149dpc3d4ff9d.png?v=2025032517" alt="unity" width="55" height="50"/> </a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="70" height="60"/> </a> </p>
 <hr>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=asiftunga&theme=gruvbox-duo&hide_border=true" alt="asiftunga" /></p>
 <hr>
