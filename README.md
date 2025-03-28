@@ -4,24 +4,14 @@
 
 
 <h3 align="center">Hi there! I'm a recent Computer Science graduate who loves to code, learn, and build awesome things.</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmVydXVrdmY4NWg5dDk1OGdpOGRzYmY3anY4dHA4azJjZzgzNnI0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lnCoxXv7RtPIImWBud/giphy.gif">
+<img align="right" alt="Coding" width="160" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmVydXVrdmY4NWg5dDk1OGdpOGRzYmY3anY4dHA4azJjZzgzNnI0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lnCoxXv7RtPIImWBud/giphy.gif">
 <br>
 
-- 👨🏻‍💻 I am interested in **Back-end Development**
-
-- 🔭 I enjoy **to solving Algorithmic Problems**
-
-- 🌱 I’m currently using and improving myself on **.Net Core**
-
-- 💬 Ask me about **C#, .Net Core, Golang**
-
-- 📫 How to reach me : **asiftunga23@gmail.com**
-
-- 🧠 I see coding as a way to turn my creativity into practical, working solutions.
-
-- 📝 I write articles on [medium](https://medium.com/@asiftunga)
-
-- ⚡ Fun fact : **I've been doing various sports for almost 23 years now 🥊🏊🏻‍♂️💪🏻🤸🏻‍♂️**
+Passionate about backend development, I love crafting clean, scalable architectures that solve real-world problems.
+<br>
+I mainly work with C# and enjoy improving myself through algorithmic challenges, to expand my approach to performance and architecture, I actively explore Golang alongside my .NET work.
+<br>
+I see software engineering as a continuous learning journey, and I’m committed to growing every step of the way. From time to time, I share my thoughts and lessons learned on [Medium](https://medium.com/@asiftunga).
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/asif-tunga-mubarek-3763b4208/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="40" height="40" align="center"/> </a><a href="https://asiftunga.me//" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/World_Globe_Flat_Icon_Vector.svg/1200px-World_Globe_Flat_Icon_Vector.svg.png" alt="bash" width="70" height="70" align="center"/> </a>
@@ -47,7 +37,7 @@
 <h3 align="left">Others & Tools</h3>
 <p><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>&nbsp;&nbsp;<!--- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/>&nbsp;&nbsp; --> <a href="https://rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/rabbitmq8610.jpg" alt="rabbitmq" width="50" height="50"/></a>&nbsp;&nbsp;<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://tecadmin.net/tutorial/wp-content/uploads/2017/09/bash-logo.jpg" alt="bash" width="70" height="55"/> </a>&nbsp;<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a>&nbsp;<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>&nbsp;<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a>&nbsp;<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/> </a></p>
  
-<h3 align="left">Game Development (My Hobby 💖)</h3>
+<h3 align="left">Game Development (My Hobby)</h3>
 <p><a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://www.citypng.com/public/uploads/preview/unity-white-logo-icon-png-701751694968149dpc3d4ff9d.png?v=2025032517" alt="unity" width="55" height="50"/> </a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="70" height="60"/> </a> </p>
 <hr>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=asiftunga&theme=gruvbox-duo&hide_border=true" alt="asiftunga" /></p>
