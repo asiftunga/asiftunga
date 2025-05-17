@@ -7,9 +7,9 @@
 <img align="right" alt="Coding" width="160" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmVydXVrdmY4NWg5dDk1OGdpOGRzYmY3anY4dHA4azJjZzgzNnI0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lnCoxXv7RtPIImWBud/giphy.gif">
 <br>
 
-Passionate about backend development, I love crafting clean, scalable architectures that solve real-world problems.
+I am passionate about backend development and love crafting clean, scalable architectures that solve real-world problems.
 <br>
-I mainly work with C# and enjoy improving myself through algorithmic challenges, to expand my approach to performance and architecture, I actively explore Golang alongside my .NET work.
+I mainly work with C# and enjoy improving myself through algorithmic challenges. Alongside my .NET work, I’ve been exploring Golang to gain new perspectives on different paradigms for efficient backend development.
 <br>
 I see software engineering as a continuous learning journey, and I’m committed to growing every step of the way. From time to time, I share my thoughts and lessons learned on [Medium](https://medium.com/@asiftunga).
 
