@@ -29,7 +29,7 @@ I see software engineering as a continuous learning journey, and I’m committed
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
    </a>&nbsp;&nbsp;&nbsp;
   <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="45" height="45"/>
   </a>&nbsp;&nbsp;&nbsp;
 </p> 
 <h3 align="left">Others & Tools</h3>
